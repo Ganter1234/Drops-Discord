@@ -16,3 +16,5 @@ sm_drops_currency - Валюта которая будет выводиться 
 sm_drops_viewcase - Показывать ли в Center Text картинку кейса?
 
 sm_drops_prime - Не показывать инфу о получении кейса если игрок без прайма?
+
+Требования и т.д можно прочесть тут: https://hlmod.ru/resources/drops-discord.3496/
